@@ -1,6 +1,6 @@
 # CommonUtilsForAndroid
-this project used for collecting utils during the programming work
-some utils collected from the internet
+* This project used for collecting utils during the programming work.
+* Some utils collected from the internet.
 
 
 
