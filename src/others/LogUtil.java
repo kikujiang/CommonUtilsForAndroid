@@ -1,8 +1,10 @@
+package others;
+
 import android.util.Log;
 
 /**
  * @author powinandroid
- *         Log统一管理类
+ *    Log统一管理类
  */
 public class LogUtil {
 
